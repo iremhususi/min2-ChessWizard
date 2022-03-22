@@ -6,7 +6,7 @@
       "run": "java Main",
       "input": "5 7",
       "output": "5",
-      "comparison": "regex",
+      "comparison": "included",
       "timeout": 10,
       "points": 10
     },
@@ -16,7 +16,7 @@
       "run": "java Main",
       "input": "77 91",
       "output": "77",
-      "comparison": "regex",
+      "comparison": "included",
       "timeout": 10,
       "points": 10
     }
