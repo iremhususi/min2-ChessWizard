@@ -20,6 +20,6 @@ public class Main {
         else if(b<a){
             return b; 
         }
-       return 0;
+       return a;
     }
 }
