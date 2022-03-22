@@ -3,7 +3,7 @@
     {
       "name": "Min2_Test1",
       "setup": "javac Main.java",
-      "run": "java Main.class",
+      "run": "./Main",
       "input": "5 7",
       "output": "5",
       "comparison": "included",
