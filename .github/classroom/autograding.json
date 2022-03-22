@@ -5,7 +5,7 @@
       "setup": "javac Main.java",
       "run": "java Main",
       "input": "5 7",
-      "output": "\\s*5\\s*",
+      "output": "5",
       "comparison": "regex",
       "timeout": 10,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "javac Main.java",
       "run": "java Main",
       "input": "77 91",
-      "output": "\\s*77\\s*",
+      "output": "77",
       "comparison": "regex",
       "timeout": 10,
       "points": 10
